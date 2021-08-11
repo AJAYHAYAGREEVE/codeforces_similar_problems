@@ -1,3 +1,4 @@
 pandas
+gunicorn
 numpy
 flask
