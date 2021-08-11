@@ -1,1 +1,1 @@
-web: python calculate.py
+web: gunicorn calculate
